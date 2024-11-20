@@ -33,7 +33,7 @@ const Blender = () => {
 
             <div className="5Years" style={{ alignSelf: 'stretch', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Montserrat', fontWeight: '600', wordWrap: 'break-word' }}>3 years +</div>
             <a href='/'>
-            <div className="ViewWorks" style={{ alignSelf: 'stretch', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Montserrat', fontWeight: '600', textDecoration: 'underline', wordWrap: 'break-word' }}>View works ></div>
+            <div className="ViewWorks" style={{ alignSelf: 'stretch', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Montserrat', fontWeight: '600', textDecoration: 'underline', wordWrap: 'break-word' }}>View works &gt;</div>
             </a>
         </div>
     )

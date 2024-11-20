@@ -26,7 +26,7 @@ const Photoshop = () => {
                 </div>
                 <div className="AdobePhotoshop" style={{ alignSelf: 'stretch', textAlign: 'center', color: 'black', fontSize: 32, fontFamily: 'Montserrat', fontWeight: '600', wordWrap: 'break-word' }}>Adobe Photoshop</div>
                 <div className="Years" style={{ alignSelf: 'stretch', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Montserrat', fontWeight: '600', wordWrap: 'break-word' }}>5+ years</div>
-                <div className="ViewWorks" style={{ alignSelf: 'stretch', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Montserrat', fontWeight: '600', textDecoration: 'underline', wordWrap: 'break-word' }}>View works ></div>
+                <div className="ViewWorks" style={{ alignSelf: 'stretch', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Montserrat', fontWeight: '600', textDecoration: 'underline', wordWrap: 'break-word' }}>View works &gt;</div>
             </div>
         </div>
     )
